@@ -1,0 +1,6 @@
+** category if not choose it can give you error
+** need validation because it can give error about unique values
+** http method validation for error page
+** exception services
+** if sale_price is exist we need to make validate only if exist
+** number of cart and wishlise are not automatically update
